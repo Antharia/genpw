@@ -1,2 +1,2 @@
 # genpw
-A password generator with [Typer]'https://typer.tiangolo.com/).
+A password generator with [Typer](https://typer.tiangolo.com/).
